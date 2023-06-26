@@ -21,16 +21,18 @@ nav {
   background-color: rgb(22, 21, 38);
 }
 
-.logo {
+.logo{
   padding: 0 3px;
+  font-style: italic;
   margin-left: 35px;
   color: rgb(192, 192, 197);
-  font-weight: bolder;
+  font-weight: bold;
   font-size: 150;
   font-family: sans-serif;
   background-color: rgb(22, 21, 38);
   transition: 0.2s ease-in-out;
 }
+
 .logo:hover {
   cursor: pointer;
   color: rgb(255, 255, 255);
